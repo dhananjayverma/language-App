@@ -1,0 +1,35 @@
+/* Contact.css */
+
+.Contact {
+    background-color: #4CAF50; /* Green background color */
+    color: #fff; /* White text color */
+    padding: 20px;
+    border-radius: 5px;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  .Contact h1 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  .Contact p {
+    font-size: 18px;
+  }
+  
+  /* Responsive design */
+  @media (max-width: 768px) {
+    .Contact {
+      padding: 15px;
+    }
+  
+    .Contact h1 {
+      font-size: 28px;
+    }
+  
+    .Contact p {
+      font-size: 16px;
+    }
+  }
+  

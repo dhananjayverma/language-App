@@ -1,0 +1,38 @@
+/* Home.css */
+
+.Home {
+  background-color: #FF9933; /* Saffron background color */
+  color: #fff; /* White text color */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.Home h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+.Home p {
+  font-size: 18px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .Home {
+    padding: 15px;
+  }
+
+  .Home h1 {
+    font-size: 28px;
+  }
+
+  .Home p {
+    font-size: 16px;
+  }
+}
+
+  
