@@ -1,12 +1,22 @@
-creating a React application that supports multiple languages. 
-The application should allow users to change the language setting, and the content should dynamically update based on the selected language.
+# Multi-Language React Application
 
-Requirements:
-1. Implement multi-language support for at least three languages (e.g., English, Hindi). 
-2. You can use language files or libraries like react-i18next for this purpose.
-3. The application should have at least two pages or components with text content (e.g., Home and About).
-4. Implement a language setting feature that allows users to switch between languages.
-5. When the user changes the language, the content of the entire application should update to the selected language without requiring a page refresh.
-6. Provide a clear and user-friendly way for users to change the language (e.g., dropdown menu, flags, or buttons).
-7. Add a default language setting for the application to load with (e.g., English).
-Ensure that the project is well-organized and follows best practices in React development.
+A React application that supports multiple languages, enabling users to change the language setting, with dynamic content updates based on the selected language.
+
+## Features
+
+- **Multi-language support:** The application supports at least three languages (e.g., English, Hindi).
+- **Components/Pages:** It includes two main components/pages (Home and About) with translated content.
+- **User-friendly language setting:** Users can easily switch between languages with a user-friendly interface.
+- **Dynamic content updates:** Changing the language dynamically updates the content throughout the application.
+- **Default language setting:** The application loads with a default language setting (English) for the initial load.
+- **Well-organized project structure:** The codebase follows React best practices for maintainability and readability.
+
+## Tech Stack
+- **React**
+- **react-i18next**
+- **json**
+- **React-router-dom**
+
+# Deployment
+[Click Here ](https://voluble-souffle-61d88a.netlify.app/)
+
